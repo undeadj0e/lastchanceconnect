@@ -12,5 +12,10 @@
     "react": "latest",
     "react-dom": "latest",
     "thirdweb": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.15",
+    "@types/node": "^20.4.2"
   }
 }
